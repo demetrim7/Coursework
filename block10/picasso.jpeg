@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.p1 {
+    font-size: larger;
+    
+}
+
+.p2 {
+    font-size: larger;
+
+}
+
+div {
+    z-index: auto;
+    display: grid;
+}

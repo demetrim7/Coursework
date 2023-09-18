@@ -1,3 +1,26 @@
+body{
+    background-color: aliceblue;
+}
+
 .h1{
     text-align: center;
+
+}
+
+.main{
+    border: 3px solid aliceblue #fff;
+    
+}
+
+.section1{
+    width: 35%;
+    float: left;
+    padding: 20px;
+    border: 2px solid black;
+    
+}
+
+.per{
+    border: 3px solid bisque;
+    padding: 20px;
 }
