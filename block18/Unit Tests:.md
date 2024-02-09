@@ -38,5 +38,4 @@ Functional Tests:
     when the user clicks log in it brings them to the screen to put in their info to log in
     if the user puts in wrong info them it will tell them worng email or password
     if the user puts in the right info then it beings them back to the screen to finish their order
-    
 
